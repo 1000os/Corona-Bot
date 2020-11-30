@@ -1,1 +1,3 @@
-# Corona-Bot
+# Corona-Bot(under-dev)
+
+A discord bot
